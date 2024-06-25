@@ -1,7 +1,7 @@
-# Basic Solar Project Finance Model
+# Solar Project Finance Model
 
 <h2>Description</h2>
-This is a simple basic solar project finance model which calculates the future cash flows of a solar development project. 
+This is a simple solar project finance model which calculates the future cash flows of a solar development project. 
 <br />
 
 <h2>Tools/Applications Used</h2>
